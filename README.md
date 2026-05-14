@@ -21,6 +21,16 @@ My work sits at the intersection of:
 
 ---
 
+# 📂 Featured Projects
+
+### 📦 Inventory Pulse — Inventory Risk Intelligence System
+An operational analytics project focused on identifying stockout risk, inventory exposure, and replenishment instability before they become expensive operational problems.
+
+🔗 **Project Link:**  
+[Inventory pulse
+](https://github.com/kamranrazzaq185-netizen/inventorypulse)
+
+---
 
 # 🧠 What Interests Me
 
