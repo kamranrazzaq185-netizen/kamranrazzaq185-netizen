@@ -1,3 +1,7 @@
+<img width="1254" height="1254" alt="WhatsApp Image 2026-05-13 at 11 57 37 PM" src="https://github.com/user-attachments/assets/84bacaa8-5b84-4bab-bdd7-2693007d972a" />
+
+
+
 # Hey, I'm M Kamran Razzaq 👋
 
 ### 📦 Supply Chain Analytics | 🤖 AI-Assisted Operations | 📊 Inventory Intelligence
@@ -87,10 +91,6 @@ The signals are usually already in the data.
 
 The challenge is visibility.
 
----
-
-# 🌐 Connect With Me
-<---------<-------<--
 ---
 
 ## 📈 Current Mission
