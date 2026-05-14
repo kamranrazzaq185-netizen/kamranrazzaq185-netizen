@@ -27,7 +27,7 @@ My work sits at the intersection of:
 An operational analytics project focused on identifying stockout risk, inventory exposure, and replenishment instability before they become expensive operational problems.
 
 🔗 **Project Link:**  
-[Inventory pulse
+1. [Inventory pulse
 ](https://github.com/kamranrazzaq185-netizen/inventorypulse)
 
 ---
