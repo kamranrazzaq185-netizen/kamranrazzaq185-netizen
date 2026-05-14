@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/4dbd934f-6478-428d-94f4-2f3634905014" />
+<img width="1920" height="580" alt="M KAMRAN RAZZAQ" src="https://github.com/user-attachments/assets/9c028864-53a9-40f4-bda1-3e7b9b39912a" />
+
 
 
 
