@@ -35,7 +35,7 @@ An operational analytics project focused on identifying stockout risk, inventory
 An operational analytics dashboard focused on analyzing revenue trends, regional performance, forecasting behavior, and business signals to support smarter operational and planning decisions.
 
 🔗 **Project Link:**
-[Sales Forecast Dashboard]([PASTE_YOUR_GITHUB_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMTJhODA5N2QtZTE4Mi00NzlkLTk3OTgtNjlkMDJhMGQzNzZiIiwidCI6Ijc1ZGYwOTZjLThiNzItNDhlNC05YjkxLWNiZjc5ZDg3ZWUzYSIsImMiOjl9&pageName=ReportSection))
+[Sales Forecast Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiMTJhODA5N2QtZTE4Mi00NzlkLTk3OTgtNjlkMDJhMGQzNzZiIiwidCI6Ijc1ZGYwOTZjLThiNzItNDhlNC05YjkxLWNiZjc5ZDg3ZWUzYSIsImMiOjl9&pageName=ReportSection))
 
 
 ---
