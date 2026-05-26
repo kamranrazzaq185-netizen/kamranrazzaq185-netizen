@@ -35,11 +35,11 @@ An operational analytics project focused on identifying stockout risk, inventory
 An operational analytics dashboard focused on analyzing revenue trends, regional performance, forecasting behavior, and business signals to support smarter operational and planning decisions.
 
 🔗 **Project Link:**  
-[Inventory pulse
+[Sales Forecast Dashboard
 ](https://github.com/kamranrazzaq185-netizen/sales-forecast-decision-dashboard)
 
 
-Sales Forecast Dashboard
+
 ---
 
 # 🧠 What Interests Me
