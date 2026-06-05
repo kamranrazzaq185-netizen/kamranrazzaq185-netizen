@@ -116,7 +116,7 @@ The challenge is visibility.
 
 ## 📈 Current Mission
 
-Becoming someone who uses analytics and AI to improve operational decision-making in supply chains.
+I build supply chain analytics systems for e-commerce and product businesses — inventory intelligence, automated data pipelines, and operational dashboards that replace manual reporting.
 
 ---
 ⭐ Always exploring better ways to connect data with operational decisions.
